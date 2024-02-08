@@ -4,8 +4,8 @@ from pyrogram import Client, filters
 from pyrogram.types import  InlineKeyboardMarkup, InlineKeyboardButton
 
 api_id = 28986271 #int of api id get from my.telegram.org
-api_hash = " Your Api Hash Here " #str of api hash get from my.telegram.org
-token = ' Your Bot Token here ' #str of token get from BotFather
+api_hash = " 6380c06ae9a32e53916e8e37d66236fd" #str of api hash get from my.telegram.org
+token = '6726196865:AAGARaA8MrwmnEusvE0BCkW1I_jaXfoPyQ4  ' #str of token get from BotFather
 app = Client("Downlaoder", api_id, api_hash, bot_token=token) # You Can Change The Session Name by Replace "Downlaoder" to your session name
 
 
